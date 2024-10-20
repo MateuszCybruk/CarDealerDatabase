@@ -2,6 +2,7 @@
 -------------------------------------------------------Luxury Car Dealership Database-------------------------------------------------------
 
 ● Overview
+
 This database is designed for managing information related to a luxury car dealership. 
 It includes data on car manufacturers (producers), car models, colors, fuel types, 
 payment methods, customers, and cars. The dataset can be used for various operations 
