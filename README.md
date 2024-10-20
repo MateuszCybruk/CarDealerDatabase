@@ -14,28 +14,28 @@ Tables and Columns
 
  - Producent (Producer)
 
--Nazwa: Name of the producer (e.g., Porsche, Ferrari)
+Nazwa: Name of the producer (e.g., Porsche, Ferrari)
 
--Kolor (Color)
+- Kolor (Color)
 Kolor: Name of the color (e.g., Midnight Sapphire, Crimson Red)
 
--Paliwo (Fuel)
+- Paliwo (Fuel)
 paliwo: Type of fuel (e.g., Petrol, Diesel, Hybrid)
 
--typ_platnosci (Payment Type)
+- typ_platnosci (Payment Type)
 nazwa: Type of payment method (e.g., Cash, Credit Card, Bank Transfer)
 
--Model (Model)
+- Model (Model)
 Producent: Name of the producer
 Model: Name of the model
 Model_ID: Unique identifier for the model
 
--Osoba (Person)
+- Osoba (Person)
 Pesel: Unique identifier (e.g., social security number)
 Imie: First name
 Nazwisko: Last name
 
--Auto (Car)
+- Auto (Car)
 nr_rej: Registration number
 cena: Price
 vin: Vehicle Identification Number
